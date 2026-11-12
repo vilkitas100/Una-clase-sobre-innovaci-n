@@ -1,0 +1,6 @@
+{
+  "name": "Masterclass: Innovación en la Era Digital",
+  "description": "App interactiva de 3 horas sobre innovación digital, Foro Económico Mundial, Design Thinking, psicología de la innovación, retos colaborativos y certificado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
